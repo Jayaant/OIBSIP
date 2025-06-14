@@ -1,0 +1,58 @@
+body {
+    margin: 0;
+    font-family: 'Segoe UI', Tahoma, sans-serif;
+    background: linear-gradient(to right, #f2f2f2, #d0e6f7);
+    color: #333;
+  }
+  
+  .container {
+    max-width: 800px;
+    margin: auto;
+    padding: 20px;
+  }
+  
+  header {
+    text-align: center;
+    padding: 40px 20px 20px;
+  }
+  
+  header h1 {
+    font-size: 2.5em;
+    color: #003366;
+  }
+  
+  .subtitle {
+    font-size: 1.2em;
+    color: #555;
+    margin-top: 10px;
+  }
+  
+  .hero-image img {
+        display: block;
+        margin: 0 auto;
+        width: 60%;         
+        max-width: 500px;   
+        height: auto;      
+  }
+
+  
+  .content h2 {
+    color: #004080;
+    margin-bottom: 15px;
+  }
+  
+  .content p {
+    line-height: 1.7;
+    font-size: 1.1em;
+    margin-bottom: 20px;
+  }
+  
+  footer {
+    text-align: center;
+    padding: 20px;
+    font-size: 0.9em;
+    color: #666;
+    border-top: 1px solid #ccc;
+    margin-top: 40px;
+  }
+  
